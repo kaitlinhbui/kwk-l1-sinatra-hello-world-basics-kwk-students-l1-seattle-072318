@@ -1,4 +1,4 @@
-requires 'sinatra'
+require 'sinatra'
 class App < Sinatra::Base
 
   get '/9393' do
