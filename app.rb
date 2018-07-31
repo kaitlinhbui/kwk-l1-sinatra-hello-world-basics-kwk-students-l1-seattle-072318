@@ -1,6 +1,6 @@
 class App < Sinatra::Base
 
-  get '/9393' do
+  Get '/9393' do
     "Hello, World!"
   end
 
